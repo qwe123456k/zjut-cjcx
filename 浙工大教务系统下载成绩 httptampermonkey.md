@@ -5,7 +5,7 @@
 // @version      0.5
 // @description  This is a magic that can help you check the composition of the final evaluation.
 // @author       Jesse
-// @match        把地址粘贴到这里。
+// @matchhttps://jw.qlu.edu.cn/jwglxt/cjcx/cjcx_cxDgXscj.html?gnmkdm=N305005&layout=default        把地址粘贴到这里。
 // @grant        none
 // ==/UserScript==
 
